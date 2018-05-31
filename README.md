@@ -4,7 +4,12 @@ A place for user group/community leaders to share a slide that can be shared at 
 
 ## How to Contribute
 
-If you are a user group/community leader and would like to
+If you are a user group/community leader and would like to contribute your slide follow these steps:
+
+* Fork this repository
+* Add your slide to the relevant slide folder (i.e 2018 Slides)
+* Update the Slide Index below
+* Issue a Pull Request
 
 ## Slide Index
 
