@@ -18,6 +18,7 @@ Below is an index listing the slides available and what group they relate to:
 ### 2018 Slides
 
 * [Glasgow Azure User Group](https://github.com/weeyin83/Community-Slides/blob/master/2018%20Slides/glasgowazureusergroup.pptx) - Founded by [Sarah Lean](https://sarahlean.com), the [Glasgow Azure User Group](https://www.gaug.co.uk) meets every two months to discuss all things Microsoft Azure. 
+* [SQLGLA](https://github.com/weeyin83/Community-Slides/blob/master/2018%20Slides/SQLGLA.pptx) - Scotland's ONLY free Data Platform event.
 
 
 ## Credits
